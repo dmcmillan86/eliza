@@ -52,7 +52,8 @@ To ensure sustainable development and continued innovation, we ask contributions
 All contributions are publicly tracked on-chain and used exclusively for ecosystem development.
 
 ### ⚠️ Don't forget to tip the big guy 10%: ⚠️
-[F5LZPEgkUtpXFzxdWz8aDdbc6X6X5oGKENCNx2BbSMyr)
+SOL - F5LZPEgkUtpXFzxdWz8aDdbc6X6X5oGKENCNx2BbSMyr
+ETH - 0xf9aE3840b307B6bF44CAa99980D0cAb845c54a81
 
 ## 🚀 Quick Start
 
